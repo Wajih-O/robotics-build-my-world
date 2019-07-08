@@ -1,6 +1,6 @@
 ## Build My World
 
-A 4 wheeled small robot housed in a one floor flat.
+A 4 wheeled small robot housed in a single floor flat.
 
 
 ### Building the plugin
